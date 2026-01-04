@@ -28,7 +28,7 @@ Installation
 Clone the repository
 
 bash
-git clone https://github.com/yourusername/smart-study-ai.git
+git clone https://github.com/Hasnat-Ali-Awan/smart_study_ai.git
 cd smart-study-ai
 Create virtual environment (Recommended)
 
