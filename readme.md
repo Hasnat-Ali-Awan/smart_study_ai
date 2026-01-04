@@ -1,7 +1,9 @@
 📘 Smart Study AI
 An intelligent, fully offline study assistant that allows you to upload documents (PDF, TXT, DOCX) and chat with them using local AI powered by Ollama. No internet required, no API keys needed!
 
-
+https://img.shields.io/badge/Platform-Windows%2520%257C%2520Mac%2520%257C%2520Linux-blue
+https://img.shields.io/badge/License-MIT-green
+https://img.shields.io/badge/%F0%9F%94%92-Fully%2520Offline-orange
 
 ✨ Features
 📁 Document Upload: Support for PDF, TXT, and DOCX files
@@ -26,7 +28,7 @@ Installation
 Clone the repository
 
 bash
-git clone https://github.com/hasnat-ali-awan/smart_study_ai.git
+git clone https://github.com/yourusername/smart-study-ai.git
 cd smart-study-ai
 Create virtual environment (Recommended)
 
